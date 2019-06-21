@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "torchly",
+    "name": "Torchly",
+    "description": "Exporting chests are converted to JSON and clipboarded.",
+    "version": "${version}",
+    "credits": "Noobanidus",
+    "logoFile": "assets/torchly/textures/logo.png",
+    "mcversion": "${mc_version}",
+    "url": "http://github.com/torchly/recipedropper",
+    "updateUrl": "",
+    "authorList": [
+      "Noobanidus"
+    ],
+    "parent": "",
+    "screenshots": [],
+    "dependencies": [
+      "forge"
+    ]
+  }
+]
